@@ -44,9 +44,9 @@
     "url": "git+https://github.com/LunyxDevelopment/lunyxgen.git"
   },
   "bugs": {
-    "url": "https://github.com/LunyxDevelopment/lunyxgen/issues",
-    "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme"
+    "url": "https://github.com/LunyxDevelopment/lunyxgen/issues"
   },
+  "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme",
   "engines": {
     "node": ">=20.13.1"
   },

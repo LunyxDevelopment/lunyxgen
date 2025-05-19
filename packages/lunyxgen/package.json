@@ -21,10 +21,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "lunyx"
-    "lunyxjs"
-    "lunyxgen"
-    "lunyxgen.ext"
+    "lunyx",
+    "lunyxjs",
+    "lunyxgen",
+    "lunyxgen.ext",
     "random",
     "generator",
     "string",
@@ -35,20 +35,20 @@
     "text"
   ],
   "author": {
-  "name": "LunyxDevelopment",
-  "email": "lunyxdevelopmentgmail.com",
-  "url": "lunyx.vercel.app"
+    "name": "LunyxDevelopment",
+    "email": "lunyxdevelopment@gmail.com",
+    "url": "lunyx.vercel.app"
   },
-  "license": "MIT" 
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LunyxDevelopment/lunyxgen.git"
   },
   "bugs": {
-    "url": "https://github.com/LunyxDevelopment/lunyxgen/issues",
-    "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme",
+    "url": "https://github.com/LunyxDevelopment/lunyxgen/issues"
   },
+  "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme",
   "engines": {
     "node": ">=20.13.1"
-  },
+  }
 }
