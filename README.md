@@ -6,5 +6,5 @@ Advanced random text and data generation library with powerful extension capabil
 
 This project contains two related packages:
 
-1. [lunyxgen](https://www.npmjs.com/package/lunyxgen) - Core random generation utilities
-2. [@lunyxjs/lunyxgen.ext](https://www.npmjs.com/package/@lunyxjs/lunyxgen.ext) - Advanced text manipulation extensions
+1. [lunyxgen](https://github.com/LunyxDevelopment/lunyxgen/tree/main/packages/lunyxgen#readme) - Core random generation utilities
+2. [@lunyxjs/lunyxgen.ext](https://github.com/LunyxDevelopment/lunyxgen/tree/main/packages/lunyxgen-ext#readme) - Advanced text manipulation extensions

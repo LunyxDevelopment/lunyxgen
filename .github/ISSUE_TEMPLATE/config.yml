@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/LunyxDevelopment/lunyxgen#readme
+    about: Check our documentation for answers to common questions
+  - name: Stack Overflow
+    url: https://stackoverflow.com/questions/tagged/lunyxgen
+    about: Ask and answer questions on Stack Overflow
