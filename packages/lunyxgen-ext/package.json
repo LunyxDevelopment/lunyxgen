@@ -1,0 +1,30 @@
+{
+  "name": "@lunyxjs/lunyxgen.ext",
+  "version": "0.0.4-dev",
+  "description": "Extension for lunyxgen with advanced generation capabilities",
+  "main": "index.js",
+  "type": "commonjs",
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "import": "./index.mjs"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "generator",
+    "extension",
+    "prefix",
+    "suffix",
+    "template",
+    "text"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "lunyxgen": "^1.0.0"
+  }
+}
