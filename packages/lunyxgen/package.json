@@ -1,6 +1,6 @@
 {
   "name": "lunyxgen",
-  "version": "0.0.4-dev",
+  "version": "0.0.5-dev",
   "description": "Advanced random text and data generation library",
   "main": "index.js",
   "type": "commonjs",
@@ -10,10 +10,21 @@
       "import": "./index.mjs"
     }
   },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "lunyx"
+    "lunyxjs"
+    "lunyxgen"
+    "lunyxgen.ext"
     "random",
     "generator",
     "string",
@@ -23,6 +34,21 @@
     "paragraph",
     "text"
   ],
-  "author": "",
-  "license": "MIT"
+  "author": {
+  "name": "LunyxDevelopment",
+  "email": "lunyxdevelopmentgmail.com",
+  "url": "lunyx.vercel.app"
+  },
+  "license": "MIT" 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunyxDevelopment/lunyxgen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LunyxDevelopment/lunyxgen/issues",
+    "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme",
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
 }

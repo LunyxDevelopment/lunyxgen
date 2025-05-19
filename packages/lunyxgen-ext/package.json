@@ -1,6 +1,6 @@
 {
   "name": "@lunyxjs/lunyxgen.ext",
-  "version": "0.0.4-dev",
+  "version": "0.0.5-dev",
   "description": "Extension for lunyxgen with advanced generation capabilities",
   "main": "index.js",
   "type": "commonjs",
@@ -10,10 +10,21 @@
       "import": "./index.mjs"
     }
   },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "lunyx",
+    "lunyxjs",
+    "lunyxgen",
+    "lunyxgen.ext",
     "random",
     "generator",
     "extension",
@@ -22,9 +33,24 @@
     "template",
     "text"
   ],
-  "author": "",
+  "author": {
+    "name": "LunyxDevelopment",
+    "email": "lunyxdevelopment@gmail.com",
+    "url": "https://lunyx.vercel.app"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunyxDevelopment/lunyxgen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LunyxDevelopment/lunyxgen/issues",
+    "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme"
+  },
+  "engines": {
+    "node": ">=20.13.1"
+  },
   "peerDependencies": {
-    "lunyxgen": "^1.0.0"
+    "lunyxgen": "^0.0.5-dev"
   }
 }
