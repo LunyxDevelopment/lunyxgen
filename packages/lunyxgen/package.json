@@ -1,6 +1,6 @@
 {
   "name": "lunyxgen",
-  "version": "0.0.5-dev",
+  "version": "0.0.5",
   "description": "Advanced random text and data generation library",
   "main": "index.js",
   "type": "commonjs",
@@ -49,6 +49,6 @@
     "homepage": "https://github.com/LunyxDevelopment/lunyxgen#readme",
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=20.13.1"
   },
 }

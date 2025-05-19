@@ -1,6 +1,6 @@
 {
   "name": "@lunyxjs/lunyxgen.ext",
-  "version": "0.0.5-dev",
+  "version": "0.0.5",
   "description": "Extension for lunyxgen with advanced generation capabilities",
   "main": "index.js",
   "type": "commonjs",
@@ -51,6 +51,6 @@
     "node": ">=20.13.1"
   },
   "peerDependencies": {
-    "lunyxgen": "^0.0.5-dev"
+    "lunyxgen": "^0.0.5"
   }
 }
